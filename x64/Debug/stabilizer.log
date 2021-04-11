@@ -1,0 +1,12 @@
+﻿  stabilizer.cpp
+C:\Users\feder\source\repos\stabilizer\stabilizer\stabilizer.cpp(84,90): warning C4244: 'argomento': conversione da 'int' a '_Tp'. Possibile perdita di dati.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\feder\source\repos\stabilizer\stabilizer\stabilizer.cpp(84,63): warning C4244: 'argomento': conversione da 'int' a '_Tp'. Possibile perdita di dati.
+          with
+          [
+              _Tp=float
+          ]
+  stabilizer.vcxproj -> C:\Users\feder\source\repos\stabilizer\x64\Debug\stabilizer.exe
